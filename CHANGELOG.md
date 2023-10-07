@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.3](https://github.com/k2tzumi/hacktoberfest-2023/compare/v0.0.2...v0.0.3) - 2023-10-07
+- Append QR Code by @k2tzumi in https://github.com/k2tzumi/hacktoberfest-2023/pull/5
+
 ## [v0.0.2](https://github.com/k2tzumi/hacktoberfest-2023/compare/v0.0.1...v0.0.2) - 2023-10-07
 - Important changes by @k2tzumi in https://github.com/k2tzumi/hacktoberfest-2023/pull/3
 
