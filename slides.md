@@ -36,7 +36,7 @@ addons:
 # OSSへの感謝を伝える
 
 [蒲田温泉で前夜祭（PHPカンファレンス非公式）](https://connpass.com/event/296001/)　Oct 7th, 2023.  
-v0.0.1
+v0.0.3
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
