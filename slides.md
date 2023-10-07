@@ -12,7 +12,7 @@ highlighter: shiki
 lineNumbers: false
 title: OSSへの感謝を伝える
 # some information about the slides, markdown enabled
-info: 日頃の感謝を伝えてみませんか？
+info: 日頃の感謝を伝えてみませんか？  
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -197,12 +197,37 @@ layout: fact
 <Tweet id="1622538122671321088"/>
 
 ---
+layout: fact
+---
 
-# 超ざっくり說明
+# 悲報 😭
+
+---
+
+# SDGs
+時代の流れか。。
+
+https://hacktoberfest.com/about/#digital-rewards
+<blockquote>
+<p>In its tenth year, we’re making important changes to Hacktoberfest to help ensure its sustainability for the next decade.</p>
+<p>Most notably, we will be moving away from the t-shirt rewards we have previously provided to a digital reward kit.
+</p>
+</blockquote>
+
+今年で10年目を迎えるハクトーバーフェストですが、次の10年も継続できるよう、重要な変更を行います。  
+最も注目すべき点は、これまで提供してきたTシャツのリワードから、デジタルリワードキットへと移行することです。
+
+<!--
+国によっては関税等を負担する必要があったり問題になっていたようです。
+-->
+
+---
+
+# 超ざっくり説明
 
 * 申し込み（アカウント登録）する
 * 10月1日から10月31日までの間に、GitHubまたはGitLab上のHacktoberfestに参加表明しているリポジトリに4つ以上のプルリクエストを送る
-* 参加者は、先着で自分の名前で木を植えてもらうか、Hacktoberfest2023のTシャツをもらうことができる
+* 参加者は、先着で自分の名前で木を植えてもらうか、Hacktoberfest2023のデジタルリワードキットをもらうことができる
 
 ---
 
@@ -250,6 +275,13 @@ https://stars.github.com/nominate/
 
 JP勢は matz さん含め4名  
 https://stars.github.com/profiles/?country=Japan
+
+---
+
+# 最後に
+
+イベント記事を上げる際は、ちゃんと差分を確認しましょう！  
+
 
 ---
 layout: fact
