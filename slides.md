@@ -239,6 +239,9 @@ https://hacktoberfest.com/about/#digital-rewards
 
 https://zenn.dev/katzumi/articles/hacktoberfest-2023#%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E6%89%8B%E9%A0%86
 
+
+<QRCode width="180" height="180" value="https://zenn.dev/katzumi/articles/hacktoberfest-2023#%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E6%89%8B%E9%A0%86" color="4329B9" image="zenn-dev.svg" />
+
 ---
 
 # 注意点
@@ -251,12 +254,17 @@ https://zenn.dev/katzumi/articles/hacktoberfest-2023#%E7%94%B3%E3%81%97%E8%BE%BC
 
 https://zenn.dev/katzumi/articles/hacktoberfest-2023#%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F
 
+<QRCode width="180" height="180" value="https://zenn.dev/katzumi/articles/hacktoberfest-2023#%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F" color="4329B9" image="zenn-dev.svg" />
+
+
 ---
 
 # 対象リポジトリ
 PHPerはここから！
 
 https://github.com/topics/hacktoberfest?l=php
+
+<QRCode width="180" height="180" value="https://github.com/topics/hacktoberfest?l=php" color="4329B9" image="github-mark.svg" />
 
 ---
 
@@ -266,15 +274,25 @@ https://github.com/topics/hacktoberfest?l=php
 ![GitHub Stars](https://stars.github.com/card.jpg)
 
 ---
+layout: two-cols-header
+---
 
 # ノミネートしてみませんか？
 推薦制度になります
 
+::left::
+
 ここから！  
 https://stars.github.com/nominate/
 
+<QRCode width="180" height="180" value="https://stars.github.com/nominate/" color="4329B9" image="github-mark.svg" />
+
+::right::
+
 JP勢は matz さん含め4名  
 https://stars.github.com/profiles/?country=Japan
+
+<QRCode width="180" height="180" value="https://stars.github.com/profiles/?country=Japan" color="4329B9" image="github-mark.svg" />
 
 ---
 
